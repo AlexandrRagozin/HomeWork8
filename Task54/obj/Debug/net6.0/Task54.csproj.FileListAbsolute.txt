@@ -1,0 +1,15 @@
+C:\GeekBrains\HomeWork8\Task54\bin\Debug\net6.0\Task54.exe
+C:\GeekBrains\HomeWork8\Task54\bin\Debug\net6.0\Task54.deps.json
+C:\GeekBrains\HomeWork8\Task54\bin\Debug\net6.0\Task54.runtimeconfig.json
+C:\GeekBrains\HomeWork8\Task54\bin\Debug\net6.0\Task54.dll
+C:\GeekBrains\HomeWork8\Task54\bin\Debug\net6.0\Task54.pdb
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\Task54.dll
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\refint\Task54.dll
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\Task54.pdb
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\Task54.genruntimeconfig.cache
+C:\GeekBrains\HomeWork8\Task54\obj\Debug\net6.0\ref\Task54.dll
